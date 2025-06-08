@@ -6,5 +6,5 @@ This report visualizes booking data from the Inviewo platform, including:
 - Booking Trends Over Time
 - Top Active Users
 
-📄 [View Full Dashboard Report (PDF)](Inviewo_Bookings_Report.pdf)
+📄 [View Full Dashboard Report (PDF)](inviewo-data-visualization.pdf)
 
