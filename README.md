@@ -7,6 +7,8 @@ This repository contains a **Power BI data visualization report** for the [Invie
 - 🔧 **Website Developed**: Full-stack platform built by me for student mentorship sessions.
 - 🗃️ **Data Source**: Booking data stored in Supabase PostgreSQL database.
 - 📈 **Power BI Dashboard**: Visualizations created to explore:
+  <img width="621" alt="inviewo-dashboard" src="https://github.com/user-attachments/assets/47412871-0291-44e5-9bf1-5d21061d99a6" />
+
 - Total Bookings per Year
 - Experience Level Distribution
 - Bookings by Domain
